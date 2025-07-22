@@ -61,6 +61,9 @@ E aqui está uma listinha que poderá te ajudar durante a graduação:
  - [GoRails](https://gorails.com/github-students) - 01 ano grátis.
  - [Alteryx](https://www.alteryx.com/pt-br/sparked/students) - 01 ano grátis.
  - [Qlik](https://www.qlik.com/us/academicprogram) - 01 ano grátis.
+
+ ### Lojas de Produtos
+ - [Samsung](https://estudantes.samsung.com.br) - Cupons e preços exclusivos para produtos Samsung para estudantes.
  
 
 ## Comprovando que você é estudante!
